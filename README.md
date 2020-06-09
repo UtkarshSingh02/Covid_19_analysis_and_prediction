@@ -1,2 +1,3 @@
 # Covid-19 analysis and prediction
 This repository provides a detailed Data analysis of Covid-19 spread in India, And predicts the no. of cases in the near Future(30 days) using some of the Machine Learning algorithms. I've chosen COVID-19 Corona Virus India Dataset. This data set is available publicly on Kaggle and is very informative. This dataset is very extensive and it includes district level data, state level data, patients information, daily recovery, daily tests etc. 
+The blog post for the same can be found at: https://medium.com/@sharaddubey843/complete-data-analysis-and-prediction-on-covid-19-in-india-fbfe54e5231a Suggestions are welcome, Thanks!
